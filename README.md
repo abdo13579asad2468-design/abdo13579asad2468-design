@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdurrahman Asaad
 
-<!--
-**abdo13579asad2468-design/abdo13579asad2468-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student at Benha University
+### 🏆 ICPC Benha Community Trainee
+I am a **Competitive Programmer** and Software Engineering student. I focus on mastering algorithms and data structures while maintaining clean, object-oriented code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Competitive Programming & Studies
+* **Training:** Currently a trainee at **ICPC Benha**, solving algorithmic challenges and participating in regular contests.
+* **Specialties:** Advanced C++, Data Structures, Algorithms.
+* **Skills:** Solid understanding of **Object-Oriented Programming (OOP)**.
+
+---
+
+### 📂 Featured Projects
+* **[School Management System](https://github.com/abdo13579asad2468-design/School-Management-System):** A comprehensive C++ project utilizing **OOP** principles.
+* **Tic-Tac-Toe Game:** Logic-based game implemented in C++.
+
+---
+
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-green?style=for-the-badge)
+![ICPC](https://img.shields.io/badge/ICPC-Trainee-red?style=for-the-badge)
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdo13579asad2468-design&show_icons=true&theme=tokyonight" alt="Abdurrahman's Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect
+* **Codeforces:** [Your Handle Here]
